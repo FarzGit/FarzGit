@@ -1,3 +1,4 @@
+![logo](https://github.com/FarzGit/FarzGit/blob/main/readMe%20banner.png)
 <h1 align="center">Hi 👋, I'm Farzin Ahammed</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
