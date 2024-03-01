@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Brototype**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently  **working in a project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarzGit](https://github.com/FarzGit)
 
-- 💬 Ask me about **Html, CSS, MongoDb, NodeJs,Data Structure, Figma**
+- 💬 Ask me about **Html, CSS, MongoDb, NodeJs,Data Structure, react.js Figma**
 
 - 📫 How to reach me **https://www.linkedin.com/in/farzin-ahammed-k-7b5908283/**
 
